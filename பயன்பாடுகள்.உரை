@@ -4,6 +4,7 @@
 - git submodule update --init --recursive 
 
 git submodule add https://github.com/24760/Background.git பின்னணி
+git submodule add https://github.com/24760/BootTools.git துவக்ககருவிகள்
 git submodule add https://github.com/24760/CAD.git கஉவ
 git submodule add https://github.com/24760/Compilers.git தொகுப்பாளர்கள்
 git submodule add https://github.com/24760/Games.git விளையாட்டுகள்

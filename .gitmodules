@@ -28,3 +28,6 @@
 [submodule "காணொளிகருவிகள்"]
 	path = காணொளிகருவிகள்
 	url = https://github.com/24760/VideoTools.git
+[submodule "துவக்ககருவிகள்"]
+	path = துவக்ககருவிகள்
+	url = https://github.com/24760/BootTools.git
