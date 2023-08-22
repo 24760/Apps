@@ -34,3 +34,6 @@
 [submodule "ஆவணதிருத்திகள்"]
 	path = ஆவணதிருத்திகள்
 	url = https://github.com/24760/DocEditors.git
+[submodule "மேலும்"]
+	path = மேலும்
+	url = https://github.com/24760/Etc.git
