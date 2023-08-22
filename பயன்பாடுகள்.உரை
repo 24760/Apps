@@ -7,6 +7,7 @@
 - git submodule add https://github.com/24760/BootTools.git துவக்ககருவிகள்
 - git submodule add https://github.com/24760/CAD.git கஉவ
 - git submodule add https://github.com/24760/Compilers.git தொகுப்பாளர்கள்
+- git submodule add https://github.com/24760/DocEditors.git ஆவணதிருத்திகள்
 - git submodule add https://github.com/24760/Games.git விளையாட்டுகள்
 - git submodule add https://github.com/24760/ImageTools.git படகருவிகள்
 - git submodule add https://github.com/24760/Language.git மொழி

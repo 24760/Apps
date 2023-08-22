@@ -31,3 +31,6 @@
 [submodule "துவக்ககருவிகள்"]
 	path = துவக்ககருவிகள்
 	url = https://github.com/24760/BootTools.git
+[submodule "ஆவணதிருத்திகள்"]
+	path = ஆவணதிருத்திகள்
+	url = https://github.com/24760/DocEditors.git
