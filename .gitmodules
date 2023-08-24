@@ -16,18 +16,15 @@
 [submodule "மொழி"]
 	path = மொழி
 	url = https://github.com/24760/Language.git
-[submodule "இசைக்கருவிகள்"]
-	path = இசைக்கருவிகள்
-	url = https://github.com/24760/MusicTools.git
+[submodule "ஊடகம்"]
+	path = ஊடகம்
+	url = https://github.com/24760/Media.git
 [submodule "வலது-சொடுக்கு"]
 	path = வலது-சொடுக்கு
 	url = https://github.com/24760/Right-Click
 [submodule "விண்"]
 	path = விண்
 	url = https://github.com/24760/Space.git
-[submodule "காணொளிகருவிகள்"]
-	path = காணொளிகருவிகள்
-	url = https://github.com/24760/VideoTools.git
 [submodule "துவக்ககருவிகள்"]
 	path = துவக்ககருவிகள்
 	url = https://github.com/24760/BootTools.git
