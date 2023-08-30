@@ -31,3 +31,6 @@
 [submodule "மேலும்"]
 	path = மேலும்
 	url = https://github.com/24760/Etc.git
+[submodule "ஊடகம்"]
+	path = ஊடகம்
+	url = https://github.com/24760/Media.git

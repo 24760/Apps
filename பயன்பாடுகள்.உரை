@@ -12,7 +12,7 @@
 - git submodule add https://github.com/24760/Games.git விளையாட்டுகள்
 - git submodule add https://github.com/24760/ImageTools.git படகருவிகள்
 - git submodule add https://github.com/24760/Language.git மொழி
-- git submodule add https://github.com/24760/MusicTools.git இசைக்கருவிகள்
+- git submodule add https://github.com/24760/Media.git ஊடகம்
 - git submodule add https://github.com/24760/Right-Click வலது-சொடுக்கு
 - git submodule add https://github.com/24760/Space.git விண்
 - git submodule add https://github.com/24760/VideoTools.git காணொளிகருவிகள்
