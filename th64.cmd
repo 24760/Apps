@@ -1,0 +1,1 @@
+"%~dp0t\%~n0\thonny.exe" %*
