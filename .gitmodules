@@ -1,15 +1,9 @@
 [submodule "பின்னணி"]
 	path = பின்னணி
 	url = https://github.com/24760/Background.git
-[submodule "கஉவ"]
-	path = கஉவ
-	url = https://github.com/24760/CAD.git
 [submodule "தொகுப்பாளர்கள்"]
 	path = தொகுப்பாளர்கள்
 	url = https://github.com/24760/Compilers.git
-[submodule "விளையாட்டுகள்"]
-	path = விளையாட்டுகள்
-	url = https://github.com/24760/Games.git
 [submodule "படகருவிகள்"]
 	path = படகருவிகள்
 	url = https://github.com/24760/ImageTools.git
@@ -19,9 +13,6 @@
 [submodule "வலது-சொடுக்கு"]
 	path = வலது-சொடுக்கு
 	url = https://github.com/24760/Right-Click
-[submodule "விண்"]
-	path = விண்
-	url = https://github.com/24760/Space.git
 [submodule "துவக்ககருவிகள்"]
 	path = துவக்ககருவிகள்
 	url = https://github.com/24760/BootTools.git
