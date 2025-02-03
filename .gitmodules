@@ -7,9 +7,6 @@
 [submodule "படகருவிகள்"]
 	path = படகருவிகள்
 	url = https://github.com/24760/ImageTools.git
-[submodule "மொழி"]
-	path = மொழி
-	url = https://github.com/24760/Language.git
 [submodule "வலது-சொடுக்கு"]
 	path = வலது-சொடுக்கு
 	url = https://github.com/24760/Right-Click
